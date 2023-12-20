@@ -1,0 +1,12 @@
+.header {
+    background-color: #3E45B0;
+    height: 120px;
+    border-radius: 0px 0px 40px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1 {
+    color: white;
+}
