@@ -60,6 +60,7 @@
 
 .task .titulo {
     margin-left: 15px;
+    color: #3A3A3A
 }
 
 .task:last-child {
@@ -73,15 +74,10 @@
     cursor: pointer;
 }
 
-.task input[type="checkbox"]:checked {
-    background-color: #ff0000;
-    border: 1px solid #b30000;
-}
-
 .delete-icon {
     margin-left: auto;
     cursor: pointer;
-    color: red;
+    color: #FA4343;
 }
 
 @media screen and (max-width: 1100px) {
